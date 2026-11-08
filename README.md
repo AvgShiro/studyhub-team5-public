@@ -27,8 +27,8 @@ You need **Python 3.10 or newer**. Check with `python --version` (on macOS/Linux
 ### 1. Get the code
 
 ```
-git clone <repo-url>
-cd <repo-folder>
+git clone https://github.com/AvgShiro/studyhub-team5-public.git
+cd studyhub-team5
 ```
 
 ### 2. Create a virtual environment and install packages
